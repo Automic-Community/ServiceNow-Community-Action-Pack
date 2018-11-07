@@ -27,6 +27,11 @@ Documenation and Instructions
 <li>Create Incidents in response to workflow errors and attach log files to the incident.</li>
 </ul>
 <p>In addition, a set of generic Actions are provided to allow you to work on any ServiceNow table, record and field.</p>
+<p>Requirements:</p>
+<ul>
+<li>Automation Engine v12.x</li>
+<li>Automation Agent Web Services Agent v4</li>
+</ul>
 
 Copyright and License
 ---

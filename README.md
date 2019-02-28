@@ -1,9 +1,9 @@
-*ServiceNow Action Pack*
+*ServiceNow Community Action Pack*
 =============
 
 
 Integrate into Service Management processes
-http://github.com/Automic-Community/ServiceNow-Action-Pack
+http://github.com/Automic-Community/ServiceNow-Community-Action-Pack
 
 <!-- List of attached files -->
 Contents of Solution Package:

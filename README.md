@@ -32,6 +32,7 @@ Documenation and Instructions
 <li>Automation Engine v12.x</li>
 <li>Automation Agent Web Services Agent v4</li>
 </ul>
+<p>Note: Since 28 Feb 2019, this community Action Pack can be replaced by a supported Action Pack: https://marketplace.automic.com/details/servicenow-action-pack</p>
 
 Copyright and License
 ---
